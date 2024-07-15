@@ -1,4 +1,5 @@
 export const items = [
+    "360",
     "Hierarchy",
     "Transparency",
     "users",
